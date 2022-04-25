@@ -1,6 +1,6 @@
 <template>
-  <div class="home">
-   <h1>Home</h1>
+  <div class="main-container">
+   <h1>Cadastrar veículos</h1>
   </div>
 </template>
 
@@ -10,6 +10,6 @@ export default {
 </script>
 
 
-<script>
+<style scoped>
 
-</script>
+</style>
